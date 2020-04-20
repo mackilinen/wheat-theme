@@ -1,0 +1,21 @@
+{
+    "name": "wheat-theme",
+    "displayName": "Wheat Theme",
+    "description": "A light theme for VS Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wheat Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Wheat Theme-color-theme.json"
+            }
+        ]
+    }
+}
