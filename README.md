@@ -1,2 +1,3 @@
-# wheat-theme
+# Wheat Theme
+
 A light theme
