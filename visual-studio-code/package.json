@@ -9,7 +9,7 @@
         "url": "https://github.com/mackilinen/wheat-theme"
     },
     "engines": {
-        "vscode": "^1.44.0"
+        "vscode": "^1.43.0"
     },
     "categories": [
         "Themes"
