@@ -2,7 +2,7 @@
     "name": "wheat-theme",
     "displayName": "Wheat Theme",
     "description": "A light theme for VS Code",
-    "version": "1.0.0",
+    "version": "1.0.0-alpha.1",
     "engines": {
         "vscode": "^1.44.0"
     },
