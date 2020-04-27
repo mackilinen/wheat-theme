@@ -4,6 +4,7 @@
     "description": "A light theme for VS Code",
     "version": "1.0.0-alpha.1",
     "publisher": "mackilinen",
+    "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
         "type": "git",
         "url": "https://github.com/mackilinen/wheat-theme"
