@@ -23,5 +23,12 @@
                 "path": "./themes/Wheat Theme-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "deploy": "vsce publish -p"
+    },
+    "devDependencies": {
+        "vsce": "^1.75.0"
     }
 }
