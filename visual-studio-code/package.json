@@ -2,7 +2,7 @@
     "name": "wheat-theme",
     "displayName": "Wheat Theme",
     "description": "A light theme for VS Code",
-    "version": "1.0.0-alpha.1",
+    "version": "1.0.0-alpha.0",
     "publisher": "mackilinen",
     "license": "SEE LICENSE IN LICENSE.md",
     "repository": {
