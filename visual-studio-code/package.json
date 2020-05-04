@@ -5,6 +5,11 @@
     "version": "1.0.0-alpha.0",
     "publisher": "mackilinen",
     "license": "SEE LICENSE IN LICENSE.md",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#333333",
+        "theme": "dark"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/mackilinen/wheat-theme"
