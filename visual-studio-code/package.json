@@ -6,6 +6,7 @@
     "publisher": "mackilinen",
     "license": "SEE LICENSE IN LICENSE.md",
     "icon": "images/icon.png",
+    "homepage": "https://github.com/mackilinen/wheat-theme/tree/master/visual-studio-code",
     "galleryBanner": {
         "color": "#333333",
         "theme": "dark"
