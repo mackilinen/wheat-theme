@@ -391,6 +391,18 @@
             }
         },
         {
+            "scope": "string.quoted.double.html",
+            "settings": {
+                "foreground": "#0866a3"
+            }
+        },
+        {
+            "scope": "string.quoted.single.html",
+            "settings": {
+                "foreground": "#0866a3"
+            }
+        },
+        {
             "scope": "constant",
             "settings": {
                 "foreground": "#10A38E"
