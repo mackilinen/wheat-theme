@@ -3,7 +3,7 @@ on:
         tags:
             - "visual-studio-code/*"
 
-name: Visual Studio Code Release
+name: VSCode Release
 
 jobs:
     build:
