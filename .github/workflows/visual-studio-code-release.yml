@@ -23,6 +23,7 @@ jobs:
                   npm run package
                   zip --junk-paths wheat-theme-visual-studio-code *.vsix
             - name: Publish to marketplace
+              working-directory: visual-studio-code
               run: npm run deploy ${{ secrets.MarketplaceToken }}
             - name: Create Release
               id: create_release
