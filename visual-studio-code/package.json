@@ -4,7 +4,7 @@
     "description": "A light theme for VS Code",
     "version": "1.0.0",
     "publisher": "mackilinen",
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "MIT",
     "icon": "images/icon.png",
     "homepage": "https://github.com/mackilinen/wheat-theme/tree/master/visual-studio-code",
     "galleryBanner": {
