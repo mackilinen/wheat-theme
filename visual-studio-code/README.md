@@ -8,7 +8,7 @@ A light theme for [VSCode](https://code.visualstudio.com)
 
 ## Screenshot
 
-![Screenshot](images\screenshot.png)
+![Screenshot](images/screenshot.png)
 
 ## Installation
 
