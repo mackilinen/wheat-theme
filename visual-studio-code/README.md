@@ -12,7 +12,11 @@ A light theme for [VSCode](https://code.visualstudio.com)
 
 ## Installation
 
-Download the `zip` file from [releases](https://github.com/mackilinen/wheat-theme/releases) and run the `vsix` file.
+Some ways of installing this exstension:
+
+- In vscode, go **Exstensions** and search for `wheat theme` and click **Install**.
+- In command-line, run: `code --install-extension mackilinen.wheat-theme`.
+- Download **wheat-theme-visual-studio-code.zip** file from [releases](https://github.com/mackilinen/wheat-theme/releases), extract it and run `code --install-extension wheat-theme-*.vsix`.
 
 ## Credits
 
