@@ -8,7 +8,7 @@ A light theme for [VSCode](https://code.visualstudio.com)
 
 ## Screenshot
 
-*TODO*
+![Screenshot](images\screenshot.png)
 
 ## Installation
 
@@ -21,6 +21,8 @@ Some ways of installing this exstension:
 ## Credits
 
 Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](www.flaticon.com)
+
+Example code in screenshot taken from [www.typescriptlang.org](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 <!-- references -->
 [marketplace-url]: https://marketplace.visualstudio.com/items?itemName=mackilinen.wheat-theme
