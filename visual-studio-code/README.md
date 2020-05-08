@@ -8,7 +8,7 @@ A light theme for [VSCode](https://code.visualstudio.com)
 
 ## Screenshot
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/mackilinen/wheat-theme/master/visual-studio-code/images/screenshot.png)
 
 ## Installation
 
