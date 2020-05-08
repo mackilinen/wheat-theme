@@ -8,8 +8,8 @@
     "icon": "images/icon.png",
     "homepage": "https://github.com/mackilinen/wheat-theme/tree/master/visual-studio-code",
     "galleryBanner": {
-        "color": "#333333",
-        "theme": "dark"
+        "color": "#f3f1f0",
+        "theme": "light"
     },
     "repository": {
         "type": "git",
