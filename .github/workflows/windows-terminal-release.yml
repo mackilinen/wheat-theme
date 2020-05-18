@@ -15,7 +15,7 @@ jobs:
             - name: Package Theme
               working-directory: windows-terminal
               run: |
-                  zip --junk-paths wheat-theme-windows-terminal themes
+                  zip -r --junk-paths wheat-theme-windows-terminal themes
             - name: Create Release
               id: create_release
               uses: actions/create-release@v1
