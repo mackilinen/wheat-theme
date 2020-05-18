@@ -1,0 +1,21 @@
+{
+    "name": "Wheat Theme",
+    "black": "#333333",
+    "red": "#a30908",
+    "green": "#10a33b",
+    "yellow": "#a3a210",
+    "blue": "#0866a3",
+    "purple": "#a300a0",
+    "cyan": "#10a38e",
+    "white": "#b7b6b5",
+    "brightBlack": "#000000",
+    "brightRed": "#740606",
+    "brightGreen": "#0b6e28",
+    "brightYellow": "#6e6e0b",
+    "brightBlue": "#064874",
+    "brightPurple": "#6f006d",
+    "brightCyan": "#0b7263",
+    "brightWhite": "#d5d3d2",
+    "background": "#f3f1f0",
+    "foreground": "#333333"
+}
