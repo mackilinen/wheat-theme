@@ -1,6 +1,6 @@
 # Wheat Theme
 
-A light theme
+A light theme that aims to be warm, not too bright and have good color contrasts.
 
 ## Colors
 
