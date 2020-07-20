@@ -4,8 +4,12 @@ updates:
       directory: "/"
       schedule:
           interval: "daily"
+      assignees:
+          - "mackilinen"
 
     - package-ecosystem: "npm"
       directory: "/visual-studio-code"
       schedule:
           interval: "daily"
+      assignees:
+          - "mackilinen"
