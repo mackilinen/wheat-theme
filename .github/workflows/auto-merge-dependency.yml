@@ -17,8 +17,8 @@ jobs:
                       const fromRegEx = /from v?(?<major>0|[1-9]\d*)/;
                       const toRegEx = /to v?(?<major>0|[1-9]\d*)/;
                       const title = context.payload.pull_request.title;
-                      const fromMajor = title.match(fromRegEx)?.groups.major;
-                      const toMajor = title.match(toRegEx)?.groups.major;
+                      const fromMajor = title.match(fromRegEx).groups.major;
+                      const toMajor = title.match(toRegEx).groups.major;
                       if (fromMajor === toMajor) {
                           await github.issues.createComment({
                             owner: context.repo.owner,
