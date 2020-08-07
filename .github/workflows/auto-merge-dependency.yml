@@ -1,4 +1,4 @@
-name: auto-merge-dependency
+name: Auto Merge Dependency
 
 on:
     pull_request:
