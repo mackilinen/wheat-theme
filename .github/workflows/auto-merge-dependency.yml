@@ -12,7 +12,7 @@ jobs:
             - name: "@dependabot merge"
               uses: actions/github-script@v2
               with:
-                  github-token: ${{secrets.GH_TOKEN}}
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
                   script: |
                       const fromRegEx = /from v?(?<major>0|[1-9]\d*)/;
                       const toRegEx = /to v?(?<major>0|[1-9]\d*)/;
