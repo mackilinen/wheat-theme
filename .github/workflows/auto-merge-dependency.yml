@@ -1,10 +1,11 @@
-name: Auto Merge Dependency
+name: Dependency Update
 
 on:
     pull_request:
 
 jobs:
-    auto-merge:
+    build:
+        name: Auto merge
         runs-on: ubuntu-latest
         if: github.actor == 'dependabot[bot]'
         steps:
