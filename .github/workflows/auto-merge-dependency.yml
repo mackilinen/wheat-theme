@@ -10,7 +10,7 @@ jobs:
         if: github.actor == 'dependabot[bot]'
         steps:
             - name: "@dependabot merge"
-              uses: actions/github-script@v2
+              uses: actions/github-script@v3.1.1
               with:
                   github-token: ${{ secrets.GITHUB_TOKEN }}
                   script: |
