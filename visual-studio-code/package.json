@@ -35,6 +35,6 @@
         "deploy": "vsce publish -p"
     },
     "devDependencies": {
-        "vsce": "^1.76.0"
+        "vsce": "^2.6.7"
     }
 }
